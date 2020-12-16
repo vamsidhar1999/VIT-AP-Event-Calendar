@@ -1,0 +1,53 @@
+body{
+    font: 15px/1.5 Calibri, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #FFFFFF;
+    background-image: url("VIT logo3.jpg");
+    background-position: center;
+    
+}
+#title{
+    color: white;
+    font: 40px/0.8 Times New Roman, Helvetica, sans-serif;
+    text-align: center;
+}
+header{
+    font: 20px/2 Times New Roman, Helvetica, sans-serif;
+    padding-top: 0px;
+    padding-left: 650px;
+    background-color: #840F0F;
+    color: white;
+}
+#image1{
+        height: 100px;
+        width: 250px;
+        padding-top: 10px;
+}
+#user{
+    color: white;
+    font: 25px/2 Times New Roman, Helvetica, sans-serif;
+}
+#pass{
+    color: white;
+    font: 25px/2 Times New Roman, Helvetica, sans-serif;
+}
+.box{
+    position: relative;
+    text-align: center;
+    padding: 0% 0 0;
+    margin: auto;
+    background-color: transparent;
+    width: 500px;
+    height: 500px;
+    //color:transparent;
+    //box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.5), 0 10px 10px 0 rgba(0, 0, 0, 0.24);
+}
+footer{
+    background-color: #840F0F;
+    color: white;
+    text-align: right;
+}
+footer p{
+    padding-left: 50px;
+    padding-top: 15px;
+}

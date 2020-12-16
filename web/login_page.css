@@ -1,0 +1,79 @@
+body{
+    //background-color: #C7C4C6;
+    background-image:  url("VIT logo3.jpg");
+    background-position: center;
+}
+
+header{
+    font: 20px/2 Times New Roman, Helvetica, sans-serif;
+    padding-top: 0px;
+    padding-left: 650px;
+    background-color: #840F0F;
+    color: white;
+}
+header p{
+    padding-left: 0;
+}
+#image1{
+        height: 100px;
+    width: 250px;
+    padding-top: 10px;
+}
+.container{
+    text-align: center;
+    font: 15px/1.5 Calibri, Helvetica, sans-serif;
+    padding: 8% 0 0;
+}
+.nav{
+    //float: left;
+    //padding: 0 10% 0;
+    display: table-cell;
+}
+.main{
+    //float: right;
+    //padding: 0 35% 0;
+    display: table-cell;
+    color: #120F0A;
+}
+#main p{
+    padding-left: 0;
+}
+.venue{
+    //float: right;
+    //padding: 0 9% 0;
+    display: table-cell;
+}
+.space{
+    display: table-cell;
+    color: transparent;
+}
+
+.buttons{
+    float: bottom;
+    padding: 10% 0 0;
+    
+}
+.time{
+    display: table-cell;
+}
+.container{
+    padding: 8% 0 0;
+    margin: auto;
+    background-color: transparent;
+    width: 900px;
+    height: 500px;
+    //box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.5), 0 10px 10px 0 rgba(0, 0, 0, 0.24);
+    display: table;
+    color: white;
+    font: 20px/2 Times New Roman, Helvetica, sans-serif;
+}
+footer{
+    background-color: #840F0F;
+    color: white;
+    height: 50px;
+    text-align: left;
+}
+footer p{
+    padding-left: 50px;
+    padding-top: 15px;
+}

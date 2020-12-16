@@ -1,0 +1,48 @@
+body{
+    background-image: url("VIT logo3.jpg");
+    background-position: center;
+}
+header{
+    font: 20px/2 Times New Roman, Helvetica, sans-serif;
+    padding-top: 0px;
+    padding-left: 650px;
+    background-color: #840F0F;
+    color: white;
+}
+#image1{
+        height: 100px;
+        width: 250px;
+        padding-top: 10px;
+}
+footer{
+    background-color: #840F0F;
+    color: white;
+    height: 50px;
+    text-align: left;
+}
+footer p{
+    padding-left: 50px;
+    padding-top: 15px;
+}
+#line{
+    display: table;
+    clear: both;
+}
+#container{
+    padding: 8% 0 0;
+    //text-align: left;
+    margin: auto;
+    padding-left: 100px;
+    background-color: transparent;
+    width: 200px;
+    height: 200px;
+    //box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.5), 0 10px 10px 0 rgba(0, 0, 0, 0.24);
+    display: table-cell;
+}
+#event{
+    margin: auto;
+    background-color: transparent;
+    //box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.5), 0 10px 10px 0 rgba(0, 0, 0, 0.24);
+    display: table-cell;
+    margin: auto;
+}
